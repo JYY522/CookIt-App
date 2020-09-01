@@ -1,4 +1,4 @@
-This is an E-commerce platform that you can buy food and all the kittenware in this website.
+This is an E-commerce platform that you can buy food and all the kitchenware in this website.
 
 To use this application, 
 
